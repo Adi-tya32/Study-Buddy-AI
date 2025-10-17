@@ -1,0 +1,5 @@
+{
+  "name": "Study Buddy AI",
+  "description": "An AI agent that takes a document (.pdf, .docx, .md) and generates a comprehensive study guide, including flashcards, various question types, and a timed exam.",
+  "requestFramePermissions": []
+}
